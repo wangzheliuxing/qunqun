@@ -1,17 +1,17 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxb366d82e4132fd5c",
+"app_id":"wxb366d82e4132fd5c",
 # 公众号appSecret
-"app_secret": "d616f3f827b7cde31fd74707f0992e71",
+"app_secret":"d616f3f827b7cde31fd74707f0992e71",
 # 模板消息id
-"template_id": "zpd9Orw0BpohG97FnQyD0k7K7R-QwxuV6Dn4w8MeN8A	",
+"template_id":"zpd9Orw0BpohG97FnQyD0k7K7R-QwxuV6Dn4w8MeN8A	",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oHo7O6qSgEKJA6TbERF9Byp4LQtg"],
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "127fdd6cde124e23a71051fe0bc4debb",
+"weather_key":"127fdd6cde124e23a71051fe0bc4debb",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "南京市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
